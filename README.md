@@ -15,7 +15,7 @@ This is a google form clone created with ReactJs.
 
 #### Usage
 ```bash
-git clone {GIT_URL}
+git clone git@github.com:bitcoinkash/google-form-clone.git
 cd {PROJECTNAME}
 npm install
 npm start

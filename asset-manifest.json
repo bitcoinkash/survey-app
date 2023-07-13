@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/google-form-clone)/static/js/main.0a08cc03.chunk.js",
+    "main.js.map": "/google-form-clone)/static/js/main.0a08cc03.chunk.js.map",
+    "runtime-main.js": "/google-form-clone)/static/js/runtime-main.875fc8ca.js",
+    "runtime-main.js.map": "/google-form-clone)/static/js/runtime-main.875fc8ca.js.map",
+    "static/css/2.5ca1617d.chunk.css": "/google-form-clone)/static/css/2.5ca1617d.chunk.css",
+    "static/js/2.94ce9e11.chunk.js": "/google-form-clone)/static/js/2.94ce9e11.chunk.js",
+    "static/js/2.94ce9e11.chunk.js.map": "/google-form-clone)/static/js/2.94ce9e11.chunk.js.map",
+    "index.html": "/google-form-clone)/index.html",
+    "static/css/2.5ca1617d.chunk.css.map": "/google-form-clone)/static/css/2.5ca1617d.chunk.css.map",
+    "static/js/2.94ce9e11.chunk.js.LICENSE.txt": "/google-form-clone)/static/js/2.94ce9e11.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/google-form-clone)/static/media/icon-plus-gray.48135054.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.875fc8ca.js",
+    "static/css/2.5ca1617d.chunk.css",
+    "static/js/2.94ce9e11.chunk.js",
+    "static/js/main.0a08cc03.chunk.js"
+  ]
+}
